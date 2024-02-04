@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning *fullstack webdevlopment</>*
 
-- 💬 Ask me about *C++,Html, bootstrap,js.*
+- 💬 Ask me about *C,C++,Python,Html,Css, Bootstrap,js.*
 
 - 📫 How to reach me *manishkmrjhamuz@gmail.com*
 
